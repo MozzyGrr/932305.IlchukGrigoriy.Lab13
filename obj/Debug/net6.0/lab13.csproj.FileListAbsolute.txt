@@ -1,0 +1,133 @@
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\bin\Debug\net6.0\appsettings.json
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\bin\Debug\net6.0\lab13.staticwebassets.runtime.json
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\bin\Debug\net6.0\lab13.staticwebassets.endpoints.json
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\bin\Debug\net6.0\lab13.exe
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\bin\Debug\net6.0\lab13.deps.json
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\bin\Debug\net6.0\lab13.runtimeconfig.json
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\bin\Debug\net6.0\lab13.dll
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\bin\Debug\net6.0\lab13.pdb
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\lab13.AssemblyInfoInputs.cache
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\lab13.AssemblyInfo.cs
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\lab13.csproj.CoreCompileInputs.cache
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\lab13.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cache
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cs
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\scopedcss\bundle\lab13.styles.css
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\scopedcss\projectbundle\lab13.bundle.scp.css
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\lab13.dll
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\refint\lab13.dll
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\lab13.pdb
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\lab13.genruntimeconfig.cache
+C:\Users\kollens\OneDrive\Рабочий стол\932201.Dybichev.Yuriy.Lab13-master\lab13\obj\Debug\net6.0\ref\lab13.dll
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\bin\Debug\net6.0\appsettings.json
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\bin\Debug\net6.0\lab13.staticwebassets.endpoints.json
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\bin\Debug\net6.0\lab13.staticwebassets.runtime.json
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\bin\Debug\net6.0\lab13.exe
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\bin\Debug\net6.0\lab13.deps.json
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\bin\Debug\net6.0\lab13.runtimeconfig.json
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\bin\Debug\net6.0\lab13.dll
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\bin\Debug\net6.0\lab13.pdb
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfoInputs.cache
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfo.cs
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\lab13.csproj.CoreCompileInputs.cache
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\lab13.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cache
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cs
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\scopedcss\bundle\lab13.styles.css
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\scopedcss\projectbundle\lab13.bundle.scp.css
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\lab13.dll
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\refint\lab13.dll
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\lab13.pdb
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\lab13.genruntimeconfig.cache
+C:\Users\kollens\OneDrive\Рабочий стол\lab13\lab13\obj\Debug\net6.0\ref\lab13.dll
+C:\project\UCHEBA\WEB\lab13\lab13\bin\Debug\net6.0\appsettings.Development.json
+C:\project\UCHEBA\WEB\lab13\lab13\bin\Debug\net6.0\appsettings.json
+C:\project\UCHEBA\WEB\lab13\lab13\bin\Debug\net6.0\lab13.staticwebassets.runtime.json
+C:\project\UCHEBA\WEB\lab13\lab13\bin\Debug\net6.0\lab13.staticwebassets.endpoints.json
+C:\project\UCHEBA\WEB\lab13\lab13\bin\Debug\net6.0\lab13.exe
+C:\project\UCHEBA\WEB\lab13\lab13\bin\Debug\net6.0\lab13.deps.json
+C:\project\UCHEBA\WEB\lab13\lab13\bin\Debug\net6.0\lab13.runtimeconfig.json
+C:\project\UCHEBA\WEB\lab13\lab13\bin\Debug\net6.0\lab13.dll
+C:\project\UCHEBA\WEB\lab13\lab13\bin\Debug\net6.0\lab13.pdb
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\rpswa.dswa.cache.json
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfoInputs.cache
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\lab13.AssemblyInfo.cs
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\lab13.csproj.CoreCompileInputs.cache
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\lab13.MvcApplicationPartsAssemblyInfo.cache
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cache
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cs
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\rjimswa.dswa.cache.json
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\rjsmrazor.dswa.cache.json
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\rjsmcshtml.dswa.cache.json
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\scopedcss\bundle\lab13.styles.css
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\scopedcss\projectbundle\lab13.bundle.scp.css
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\staticwebassets.build.json
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\staticwebassets.build.json.cache
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\staticwebassets.development.json
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\lab13.dll
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\refint\lab13.dll
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\lab13.pdb
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\lab13.genruntimeconfig.cache
+C:\project\UCHEBA\WEB\lab13\lab13\obj\Debug\net6.0\ref\lab13.dll
+C:\Users\ilchu\source\repos\lab13\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ilchu\source\repos\lab13\bin\Debug\net6.0\appsettings.json
+C:\Users\ilchu\source\repos\lab13\bin\Debug\net6.0\lab13.staticwebassets.runtime.json
+C:\Users\ilchu\source\repos\lab13\bin\Debug\net6.0\lab13.staticwebassets.endpoints.json
+C:\Users\ilchu\source\repos\lab13\bin\Debug\net6.0\lab13.exe
+C:\Users\ilchu\source\repos\lab13\bin\Debug\net6.0\lab13.deps.json
+C:\Users\ilchu\source\repos\lab13\bin\Debug\net6.0\lab13.runtimeconfig.json
+C:\Users\ilchu\source\repos\lab13\bin\Debug\net6.0\lab13.dll
+C:\Users\ilchu\source\repos\lab13\bin\Debug\net6.0\lab13.pdb
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\lab13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\lab13.AssemblyInfoInputs.cache
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\lab13.AssemblyInfo.cs
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\lab13.csproj.CoreCompileInputs.cache
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\lab13.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cache
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\lab13.RazorAssemblyInfo.cs
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\scopedcss\bundle\lab13.styles.css
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\scopedcss\projectbundle\lab13.bundle.scp.css
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\staticwebassets\msbuild.lab13.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\staticwebassets\msbuild.lab13.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\staticwebassets\msbuild.build.lab13.props
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.lab13.props
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.lab13.props
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\lab13.dll
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\refint\lab13.dll
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\lab13.pdb
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\lab13.genruntimeconfig.cache
+C:\Users\ilchu\source\repos\lab13\obj\Debug\net6.0\ref\lab13.dll
